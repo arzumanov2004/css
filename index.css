@@ -1,0 +1,81 @@
+
+.box{
+    width: 100%;
+    height: 100%;
+background-color: black;
+padding-top: 20px;
+padding-left: 50px;
+
+}
+.img{
+    width: 100%;
+    height: 100%;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+.H{
+    color: white;
+    padding-left: 70px;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.theband{
+    margin: 40px;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+}
+.imgtheband{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.imgposition{
+    display: flex;
+    justify-content: center;
+}
+.city{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.tourdates{
+    text-align: center;
+    color: white;
+}
+.NewYork{
+    background-color: white;
+}
+.Paris{
+    background-color: white;
+}
+.SanFrancisco{
+    background-color: white;
+}
+.month{
+    background-color: white;
+    width: 94.5%;
+    height: 80px;
+    margin-left: 38.5px;
+}
+.TOURDATES{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 100px;
+
+}
+.form{
+    background-color: white;
+text-align: center;
+}
+.map{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
