@@ -6,6 +6,7 @@ background-color: black;
 padding-top: 20px;
 padding-left: 50px;
 
+
 }
 .img{
     width: 100%;
@@ -23,11 +24,13 @@ padding-left: 50px;
     flex-direction: column;
 }
 .theband{
-    margin: 40px;
+    width: 40%;
+    height: 40%;
 display: flex;
 justify-content: center;
 flex-direction: column;
 align-items: center;
+margin-left: 400px;
 
 }
 .imgtheband{
@@ -78,4 +81,25 @@ text-align: center;
 .map{
     margin-top: 200px;
     margin-bottom: 200px;
+    width: 100%;
+    height: 100%;
+}
+.email{
+    display: flex;
+    width: 700px;
+    margin: auto;
+}
+.sason{
+    list-style: none;
+} 
+FORM{
+    margin-left: 100px;
+    margin-top: 35px;
+}
+.for{
+    display: flex;
+}
+.type{
+    width: 100%;
+    input: 100%;
 }
